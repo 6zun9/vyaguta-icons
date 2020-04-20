@@ -41,18 +41,7 @@ For example, to use an icon from **Material Design**, your import would be: `imp
 
 | Icon Library                                                  | License                                                                                   |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [Ant Design Icons](https://ant.design/components/icon/)       | [MIT](https://github.com/ant-design/ant-design-icons/blob/master/LICENSE)                 |
-| [Bootstrap Icons](https://icons.getbootstrap.com/)            | [MIT](https://github.com/twbs/icons/blob/master/LICENSE.md)                               |
-| [Devicon](https://konpa.github.io/devicon/)                   | [MIT](https://github.com/konpa/devicon/blob/master/LICENSE)                               |
 | [Feather](https://feathericons.com/)                          | [MIT](https://github.com/feathericons/feather/blob/master/LICENSE)                        |
-| [Font Awesome](https://fontawesome.com/)                      | [CC BY 4.0 License](https://github.com/FortAwesome/Font-Awesome/blob/master/LICENSE.txt)  |
-| [Game Icons](https://game-icons.net/)                         | [CC BY 3.0](https://github.com/game-icons/icons/blob/master/license.txt)                  |
-| [Github Octicons](https://octicons.github.com/)               | [MIT](https://github.com/primer/octicons/blob/master/LICENSE)                             |
-| [Ionicons](https://ionicons.com/)                             | [MIT](https://github.com/ionic-team/ionicons/blob/master/LICENSE)                         |
-| [Material Design](https://material.io/resources/icons/)       | [Apache License 2.0](https://github.com/google/material-design-icons/blob/master/LICENSE) |
-| [Remix Icon](https://remixicon.com/)                          | [Apache License 2.0](https://github.com/Remix-Design/RemixIcon/blob/master/License)       |
-| [Typicons](http://s-ings.com/typicons/)                       | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)                           |
-| [Weather Icons](https://erikflowers.github.io/weather-icons/) | [SIL OFL 1.1](http://scripts.sil.org/OFL)                                                 |
 | [Unicons Icons](https://github.com/Iconscout/unicons)         | [Apache License 2.0](https://github.com/Iconscout/unicons/blob/master/LICENSE)            |
 
 You can add more icons by submitting pull requests or creating issues.
