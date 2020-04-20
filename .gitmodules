@@ -25,3 +25,9 @@
 [submodule "RemixIcon"]
 	path = packages/react-icons/src/icons/RemixIcon
 	url = https://github.com/Remix-Design/RemixIcon.git
+[submodule "unicons"]
+	path = packages/react-icons/src/icons/unicons
+	url = https://github.com/Iconscout/unicons.git
+[submodule "feathericon"]
+	path = packages/react-icons/src/icons/feathericon
+	url = https://github.com/feathericons/feather.git

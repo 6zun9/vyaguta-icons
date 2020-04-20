@@ -267,6 +267,22 @@ module.exports = {
       projectUrl: "https://github.com/Remix-Design/RemixIcon",
       license: "Apache License Version 2.0",
       licenseUrl: "http://www.apache.org/licenses/"
+    },
+    {
+      id: "ui",
+      name: "Unicons",
+      contents: [
+        {
+          files: path.resolve(
+            __dirname,
+            "../../../../node_modules/@iconscout/unicons/svg/line/*.svg"
+          ),
+          formatter: name => `Ui${name}`
+        }
+      ],
+      projectUrl: "https://iconscout.com/unicons",
+      license: "Apache-2.0",
+      licenseUrl: "https://github.com/Iconscout/unicons/blob/master/LICENSE"
     }
   ]
 };
