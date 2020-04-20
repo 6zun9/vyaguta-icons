@@ -24,11 +24,11 @@ npm install react-icons --save
 ## Usage
 
 ```jsx
-import { FaBeer } from 'react-icons/fa';
+import { UiAirplay } from 'react-icons/ui';
 
 class Question extends React.Component {
     render() {
-        return <h3> Lets go for a <FaBeer />? </h3>
+        return <h3> Lets go for a <UiAirplay />? </h3>
     }
 }
 ```
