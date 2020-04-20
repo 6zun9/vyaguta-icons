@@ -51,6 +51,6 @@
     "build-cjs": "tsc -p ./tsconfig.commonjs.json"
   },
   "dependencies": {
-    "camelcase": "^5.0.0",
+    "camelcase": "^5.0.0"
   }
 }
