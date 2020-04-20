@@ -9,7 +9,7 @@ module.exports = {
         {
           files: path.resolve(
             __dirname,
-            "../../../../node_modules/feather-icons/dist/icons/*.svg"
+            "../../node_modules/feather-icons/dist/icons/*.svg"
           ),
           formatter: name => `Fi${name}`
         }
@@ -25,7 +25,7 @@ module.exports = {
         {
           files: path.resolve(
             __dirname,
-            "../../../../node_modules/@iconscout/unicons/svg/line/*.svg"
+            "../../node_modules/@iconscout/unicons/svg/line/*.svg"
           ),
           formatter: name => `Ui${name}`
         }
