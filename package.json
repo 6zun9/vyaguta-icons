@@ -1,5 +1,5 @@
 {
-  "name": "react-icons",
+  "name": "vyaguta-icons",
   "version": "1.0.0",
   "description": "SVG React icons of popular icon packs using ES6 imports",
   "license": "Apache 2.0",
@@ -8,12 +8,8 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:react-icons/react-icons.git"
+    "url": "git@github.com:prabeshshakya/react-icons.git"
   },
-  "bugs": {
-    "url": "https://github.com/react-icons/react-icons/issues"
-  },
-  "homepage": "https://github.com/react-icons/react-icons#readme",
   "peerDependencies": {
     "react": "*"
   },
