@@ -42,7 +42,6 @@ For example, to use an icon from **Material Design**, your import would be: `imp
 | [Feather](https://feathericons.com/)                          | [MIT](https://github.com/feathericons/feather/blob/master/LICENSE)                        |
 | [Unicons Icons](https://github.com/Iconscout/unicons)         | [Apache License 2.0](https://github.com/Iconscout/unicons/blob/master/LICENSE)            |
 
-You can add more icons by submitting pull requests or creating issues.
 
 ## Configuration
 
