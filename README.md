@@ -1,16 +1,11 @@
-# [React Icons](https://vyaguta-icons.netlify.com)
+# [Vyaguta Icons](https://vyaguta-icon.netlify.app/)
+
+### Original Library Information
+### [Original Demo](https://react-icons.netlify.com)
+### [Original Repo] (https://github.com/react-icons/react-icons)
 
 
-# Original Library Information
-# [Original Demo](https://react-icons.netlify.com)
-# [Original Repo] (https://github.com/react-icons/react-icons)
-
-[![npm][npm-image]][npm-url]
-
-[npm-image]: https://img.shields.io/npm/v/react-icons.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/react-icons
-
-Include popular icons in your React projects easily with `react-icons`, which utilizes ES6 imports that allows you to include only the icons that your project is using.
+Include popular icons in your React projects easily with `vyaguta-icons`, which utilizes ES6 imports that allows you to include only the icons that your project is using.
 
 ## Installation
 
