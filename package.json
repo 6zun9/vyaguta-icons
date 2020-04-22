@@ -2,7 +2,7 @@
   "name": "vyaguta-icons",
   "version": "1.0.1",
   "description": "SVG React icons of popular icon packs using ES6 imports",
-  "license": "Apache 2.0",
+  "license": "MIT",
   "main": "lib",
   "types": "./lib/esm/index.d.ts",
   "sideEffects": false,
